@@ -1,0 +1,3 @@
+"dependencies": {
+  "my-app": "git+https://github.com/ecowestern/eNative3"
+}
