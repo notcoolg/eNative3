@@ -1,0 +1,42 @@
+# eNative3 Security Policy
+
+## Reporting a Security Issue
+
+At EcoWestern, we take security seriously. We appreciate your efforts to responsibly disclose any security concerns.
+
+To report a security issue, please email our security team at [security@ecowestern.com](mailto:security@ecowestern.com) with a detailed description of the vulnerability. We encourage you to encrypt sensitive information using our PGP key to ensure the confidentiality of the report.
+
+### Our PGP Key
+
+You can use our PGP key to encrypt and protect the contents of your report:
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: PGP Desktop 10.1.1 (Build 10.1.1.1998)
+
+mQINBFn3ZMMBEAC3StXd7KAMidHSaXOMfiRbS9Qv2xx6l4J2XIEaVR1tA6Zj1ZmO
+TR43vL6XYapdU7KT7jC+OOdiLyY4pKqFUTGcOJwwijmPlDgH89km1YIKvGc96UeT
+mAXsRj0aSRH3l14avbGj4ioUhTQzjSC8tMoGSqwseYmRRDDgAB9THgM+zhFcsnl0
+FLwZO1ST99arXzy7ssBvF6yQ03bYwWqhoMQhv/YIePKsLJUNq6r4mtm3hsDEEvHU
+9rsIKllh5gDLH/A1H/FLyXbYZrOsnCOKySE2grZcF1Wz4HzRvcHWMRUVd9ErKeI3
+R3SsdfPxHf3oSHuvNBy0UOcO2mtq6/YT0S0Zw01OQDPB/Q4RAXDj4uMz1gbw/Rod
+qT8MnWd6RSRyN6lWdHs7tkWu3trbO2QnQx5+/z9Mj65mMRMM5L2xvAFrSdITCXCb
+QMTUli1Tlzq8rc9MQyR1Y1YUQ3KAAWCD00Y7e58lLl0VUkMamigNj8amBtHEzAdM
+ELarL72Ch5uF+fgWPDhR/CLl17SJhGZ1/g0YpDbsF0DOV7AwbmF2qjUjMg5abfHs
+t6YOdD9lzaxdLw3E/azDe/3ot91B4fHozgtwBnbk11FBDK9wCYgFurhD+gahGKGU
+w1XyqEDKdmz9PRST3pAOl8zU1fnb6uUy5goq9L46RQpQLPc6JgEjxCYXOwARAQAB
+tDpFY29XZXN0ZXJuIFNlY3VyaXR5IDxpbmdAc3VubmdjcmFmdC5jb20+iQI4BBMB
+AgAiBQJZ92TDAhsDBgsJCAcDAgYVCAIJCgsEFgIDAQIeAQIXgAAKCRAvovU/uxuMz
+ShRD/41/Eu1sYvCU75PiygTf34LDL5R2kBe4o/nNnKkm3VszxKANwEdNeNo3FTc0
+/QtR3tzoPZx77ctXvLaOoINhlyPdpOm8O1ZwHyKMXayWYQoWMl2kKPLiGofB97mT
+r8k9HZMhtzIjS5MZSMuWBWkPlnHTF2mTszOS3BzQ9JTWacJn8/c8wF0HFqG8iRXm
+LQZkZCx0ACDXHEDaKWMF3Op2LyZ2RopplXrjxyWWrKdJ6gS5RqBEsAhAezISyb5E
+Ucm+O9XXCZkysIel68XRAIrfMp9mNcLHVn9v/GWzj4qCRbdG4ZzoNsm3YAK48W7O
+MfBNj+gM4cIvWU+XJdHhLo1jiEGAYd2NjiFaiu/Tx9tJ3nqk3cmXGuBLtD3iP+Y5
+Wc/n5r8NkZ8At2dEo5r0w10Gc8ai4/7T2iJEMF39Y+02ylazYPfuDc0cYapzOMb
+68BnIQ4G49q8uulHczckmFR+oRsTpxbEY8x8F5On2T/Kb8/JxR4+T0Kn2+kosj/1
+9C+R/VU0pFRLHZzRqEZvF3Ll9XcCXyz8MXdorl3CfxEmzwrJsvhDbAbj04ItOwh1
+t9jvCX4w0JFWBfl6O4/viCXeiZM/DB/2SfVNE9p6lJmrt+I0cYKRU2wN/PL6plQ
+EH08/wSdxULbG7Hjt7OjBPlw2z+DbJhebR15U8Xo0hBPmR2mSSmXFU0QFrUwV7x1
+wBxeZSZwhJeVn73RXoDRe1uQF/qPj7kCDQRZ92TDAQgAz7NUoZaT78nGx5us2PygU
+JmF63lULfiSHkoUD6fP5y/O5jJ/0N5yfOLYn3cEIEPcJ
