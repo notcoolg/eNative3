@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Welcome to Our GitBook](README.md)
+
 ## ✅ eNative3
 
-* [Exploring eNative3: An Innovative Coding Language](README.md)
+* [Exploring eNative3: An Innovative Coding Language](<README (1).md>)
 * [The eNative3 Starter Pack: Your Guide to Getting Started](enative3/the-enative3-starter-pack-your-guide-to-getting-started.md)
 * [Mastering eNative3: An Intermediate Guide](enative3/mastering-enative3-an-intermediate-guide.md)
 * [Mastering eNative3: Unlocking the Full Potential](enative3/mastering-enative3-unlocking-the-full-potential.md)
