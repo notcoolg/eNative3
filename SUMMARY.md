@@ -2,6 +2,11 @@
 
 * [Welcome to Our GitBook](README.md)
 
+## Developer News
+
+* [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
+* [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
+
 ## ✅ eNative3
 
 * [Exploring eNative3: An Innovative Coding Language](<README (1).md>)
