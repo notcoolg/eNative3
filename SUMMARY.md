@@ -6,6 +6,8 @@
 
 * [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
 * [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
+* [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
+* [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
 
 ## ✅ eNative3
 
