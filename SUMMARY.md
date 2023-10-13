@@ -8,6 +8,7 @@
 * [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
 * [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
 * [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
+* [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
 
 ## ✅ eNative3
 
@@ -31,3 +32,4 @@
 * [Azura 5.0 API (Outdated)](azura/azura-5.0-api-outdated.md)
 * [How to Install Azura AI: Quick Start Guide](azura/how-to-install-azura-ai-quick-start-guide.md)
 * [Azura's Neural Engine Network (ANEN)](azura/azuras-neural-engine-network-anen.md)
+* [Elevate Voice Interaction with Azura AI](azura/elevate-voice-interaction-with-azura-ai.md)
