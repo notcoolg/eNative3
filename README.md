@@ -9,15 +9,27 @@ layout: landing
 
 Welcome to our official GitBook. We're excited to provide you with comprehensive information about our products, services, and various technologies. Whether you're a developer, a tech enthusiast, or just curious about what we do, you'll find valuable insights here.
 
+### Newest Articles: <a href="#table-of-contents" id="table-of-contents"></a>
+
+[**Azura's Neural Engine Network (ANEN)**](azura/azuras-neural-engine-network-anen.md)
+
+[**The RXIT TV TDK**](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
+
+[**Embracing The Future**](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
+
+[**EMaps Features**](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
+
+[**Elevate Voice Interaction with Azura AI**](azura/elevate-voice-interaction-with-azura-ai.md)
+
 ### Table of Contents <a href="#table-of-contents" id="table-of-contents"></a>
 
-#### ​[Azura AI](https://app.gitbook.com/o/jXI7SnNGQxzBn8JA0UlM/s/iGziysb0GKhWXkPyBTG0/\~/changes/1/azura)​ <a href="#azura-ai" id="azura-ai"></a>
+#### ​[Azura AI](broken-reference)​ <a href="#azura-ai" id="azura-ai"></a>
 
-#### ​[eNative Coding Language](https://app.gitbook.com/o/jXI7SnNGQxzBn8JA0UlM/s/iGziysb0GKhWXkPyBTG0/\~/changes/1/enative3)​ <a href="#enative-coding-language" id="enative-coding-language"></a>
+#### ​[eNative Coding Language](broken-reference)​ <a href="#enative-coding-language" id="enative-coding-language"></a>
 
-#### ​[eNative (Legacy)](https://app.gitbook.com/o/jXI7SnNGQxzBn8JA0UlM/s/iGziysb0GKhWXkPyBTG0/\~/changes/1/enative2)​ <a href="#enative-legacy" id="enative-legacy"></a>
+#### ​[eNative (Legacy)](broken-reference)​ <a href="#enative-legacy" id="enative-legacy"></a>
 
-#### ​[Developer News](https://app.gitbook.com/o/jXI7SnNGQxzBn8JA0UlM/s/iGziysb0GKhWXkPyBTG0/\~/changes/1/#developer-news)​ <a href="#developer-news" id="developer-news"></a>
+#### ​[Developer News](broken-reference)​ <a href="#developer-news" id="developer-news"></a>
 
 ### About Us <a href="#about-us" id="about-us"></a>
 
