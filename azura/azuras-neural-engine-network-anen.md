@@ -40,7 +40,7 @@ As we move forward into the era of MateOS X4.5, we anticipate that ANEN will con
 
 _Experience the power of ANEN and MateOS X4.5 by upgrading today. Elevate your digital interactions and contribute to the creation of a safer online environment._
 
-_For developers seeking more information on ANEN integration, visit our developer resources_ [_here_](https://developer.ecowestern.com/anen)_._
+_For developers seeking more information on ANEN integration, visit our developer resources_ [_here_](https://developere9.wixsite.com/ecowestern)_._
 
 {% hint style="info" %}
 _This article offers an introduction to ANEN and its integration into MateOS X4.5. For detailed guides and support, please refer to our official resources._
