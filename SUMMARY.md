@@ -9,6 +9,7 @@
 * [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
 * [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
 * [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
+* [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
 
 ## ✅ eNative3
 
@@ -16,6 +17,7 @@
 * [The eNative3 Starter Pack: Your Guide to Getting Started](enative3/the-enative3-starter-pack-your-guide-to-getting-started.md)
 * [Mastering eNative3: An Intermediate Guide](enative3/mastering-enative3-an-intermediate-guide.md)
 * [Mastering eNative3: Unlocking the Full Potential](enative3/mastering-enative3-unlocking-the-full-potential.md)
+* [Unveiling Advanced Features of eNative3](enative3/unveiling-advanced-features-of-enative3.md)
 
 ## ☑ eNative2
 
