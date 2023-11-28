@@ -1,6 +1,5 @@
 ---
 coverY: 0
-layout: landing
 ---
 
 # Welcome to Our GitBook
@@ -11,7 +10,7 @@ Welcome to our official GitBook. We're excited to provide you with comprehensive
 
 ### Newest Articles: <a href="#table-of-contents" id="table-of-contents"></a>
 
-[**Azura's Neural Engine Network (ANEN)**](azura/azuras-neural-engine-network-anen.md)
+[EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
 
 [**The RXIT TV TDK**](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
 

@@ -10,6 +10,8 @@
 * [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
 * [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
 * [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
+* [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
+* [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 
 ## ✅ eNative3
 
