@@ -12,6 +12,7 @@
 * [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
 * [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
 * [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
+* [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
 ## ✅ eNative3
 
@@ -37,3 +38,4 @@
 * [How to Install Azura AI: Quick Start Guide](azura/how-to-install-azura-ai-quick-start-guide.md)
 * [Azura's Neural Engine Network (ANEN)](azura/azuras-neural-engine-network-anen.md)
 * [Elevate Voice Interaction with Azura AI](azura/elevate-voice-interaction-with-azura-ai.md)
+* [AZURA AI 3.0 ALPHA](azura/azura-ai-3.0-alpha.md)

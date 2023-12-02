@@ -1,34 +1,31 @@
 ---
-description: 'Refreshed: 11.27.23'
+description: 'Refreshed: 12.2.23'
 coverY: 0
 ---
 
 # Welcome to Our GitBook
 
-## Welcome to Our GitBook <a href="#welcome-to-our-gitbook" id="welcome-to-our-gitbook"></a>
+## **Welcome to the EcoWestern Developer Portal**
 
-Welcome to our official GitBook. We're excited to provide you with comprehensive information about our products, services, and various technologies. Whether you're a developer, a tech enthusiast, or just curious about what we do, you'll find valuable insights here.
+Discover a wealth of information about our products, services, and cutting-edge technologies right here on our official GitBook. Whether you're a developer, a tech enthusiast, or simply curious about our endeavors, you'll find valuable insights that unravel the complexities of our offerings.
 
-### Newest Articles: <a href="#table-of-contents" id="table-of-contents"></a>
+## **Explore the Latest**
 
-[**ANENDos Adoption - Discord + X**](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
+[<mark style="background-color:green;">**Azura AI 3.0 Alpha:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.</mark>](azura/azura-ai-3.0-alpha.md)
 
-[**EADS Integration and Transition**](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
+[<mark style="background-color:green;">**MateFluency Announcement:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.</mark>](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
-[**The RXIT TV TDK**](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
+[**ANENDos Adoption - Discord + X:** Delve into how ANENDos is making waves on Discord and X, transforming online interactions with our latest technology.](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 
-[**Embracing The Future**](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
+[**Revamped RXIT TV Development:** Discover the major overhaul EcoWestern did to improve the RXIT TV app development processes.](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
 
-### Table of Contents <a href="#table-of-contents" id="table-of-contents"></a>
+## **Discover More**
 
-#### ​[Azura AI](broken-reference)​ <a href="#azura-ai" id="azura-ai"></a>
+* [**Azura AI:** Explore the capabilities of Azura AI, our advanced artificial intelligence system driving innovation across our product range.](broken-reference)
+* [**eNative Coding Language:** Learn about the sophisticated eNative coding language, a powerhouse for developers seeking efficient and powerful solutions.](broken-reference)
+* [**eNative (Legacy):** Dive into the legacy of eNative, understanding its evolution and the impact it has had on our technological landscape.](broken-reference)
+* [**Developer News:** Stay updated with the latest news and developments from our vibrant developer community, shaping the future of EcoWestern tech.](broken-reference)
 
-#### ​[eNative Coding Language](broken-reference)​ <a href="#enative-coding-language" id="enative-coding-language"></a>
+## **About Us**
 
-#### ​[eNative (Legacy)](broken-reference)​ <a href="#enative-legacy" id="enative-legacy"></a>
-
-#### ​[Developer News](broken-reference)​ <a href="#developer-news" id="developer-news"></a>
-
-### About Us <a href="#about-us" id="about-us"></a>
-
-EcoWestern is a trailblazing technology company that has seamlessly woven sustainability into the fabric of innovation. From game consoles to smartphones and beyond, they're not just offering products; they're delivering a commitment to a greener future. With a thriving community, cutting-edge tech features, and a relentless focus on sustainability, EcoWestern stands as a beacon in the tech landscape—a company not just shaping the future of technology but doing so responsibly.
+EcoWestern isn't just a tech company; it's a pioneer in weaving sustainability into every aspect of innovation. Our commitment goes beyond delivering products; we're architects of a greener future. With a thriving community, cutting-edge features, and an unwavering focus on sustainability, EcoWestern stands as a beacon—shaping the tech landscape responsibly and pushing the boundaries of what's possible in the world of technology. Join us on this journey as we redefine the future with purpose and innovation.
