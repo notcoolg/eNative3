@@ -1,7 +1,13 @@
-# Azura AI API Guide
+---
+description: March 23rd, 2023
+---
 
-{% hint style="success" %}
-Article last updated **March 23rd, 2023 (UP TO DATE)**
+# Azura AI API Guide (outdated)
+
+
+
+{% hint style="danger" %}
+OUT OF DATE **PLEASE REFER TO** [**AZAI API 2024.**](azura-ai-api-integration-guide.md)
 {% endhint %}
 
 ## **Introduction**
