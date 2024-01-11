@@ -14,13 +14,17 @@
 * [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 * [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
-## ✅ eNative3
+## 📳 enative3
 
-* [Exploring eNative3: An Innovative Coding Language](<README (1).md>)
-* [The eNative3 Starter Pack: Your Guide to Getting Started](enative3/the-enative3-starter-pack-your-guide-to-getting-started.md)
-* [Mastering eNative3: An Intermediate Guide](enative3/mastering-enative3-an-intermediate-guide.md)
-* [Mastering eNative3: Unlocking the Full Potential](enative3/mastering-enative3-unlocking-the-full-potential.md)
-* [Unveiling Advanced Features of eNative3](enative3/unveiling-advanced-features-of-enative3.md)
+* [New Special Endpoints in ReString 1#1101](enative3/new-special-endpoints-in-restring-1-1101.md)
+
+## ✅ eNative3 Basics
+
+* [Exploring eNative3: An Innovative Coding Language](enative3-basics/exploring-enative3-an-innovative-coding-language.md)
+* [The eNative3 Starter Pack: Your Guide to Getting Started](enative3-basics/the-enative3-starter-pack-your-guide-to-getting-started.md)
+* [Mastering eNative3: An Intermediate Guide](enative3-basics/mastering-enative3-an-intermediate-guide.md)
+* [Mastering eNative3: Unlocking the Full Potential](enative3-basics/mastering-enative3-unlocking-the-full-potential.md)
+* [Unveiling Advanced Features of eNative3](enative3-basics/unveiling-advanced-features-of-enative3.md)
 
 ## ☑ eNative2
 
@@ -33,7 +37,7 @@
 * ["Getting Started with Azura AI"](azura/getting-started-with-azura-ai.md)
 * ["Azura AI: Voice Assistant"](azura/azura-ai-voice-assistant.md)
 * ["Azura AI: Text Assistant"](azura/azura-ai-text-assistant.md)
-* [Azura AI API Guide (outdated)](azura/azura-ai-api-guide-outdated.md)
+* [Azura AI API Guide (outdated)](azura/azura-ai-api-guide.md)
 * [Azura 5.0 API (Outdated)](azura/azura-5.0-api-outdated.md)
 * [How to Install Azura AI: Quick Start Guide](azura/how-to-install-azura-ai-quick-start-guide.md)
 * [Azura's Neural Engine Network (ANEN)](azura/azuras-neural-engine-network-anen.md)
