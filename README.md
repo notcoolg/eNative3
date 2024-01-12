@@ -1,28 +1,29 @@
 ---
-description: 'Refreshed: 12.2.23'
+description: 'Refreshed: 1.11.23'
 coverY: 0
 ---
 
-# Welcome to Our GitBook
+# 👋 Welcome to Our GitBook
 
-## **Welcome to the EcoWestern Developer Portal**
+## **Welcome to the EcoWestern Learn Portal**
 
 Discover a wealth of information about our products, services, and cutting-edge technologies right here on our official GitBook. Whether you're a developer, a tech enthusiast, or simply curious about our endeavors, you'll find valuable insights that unravel the complexities of our offerings.
 
 ## **Explore the Latest**
 
+[<mark style="background-color:purple;">Special Endpoints: The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.</mark>](enative3/new-special-endpoints-in-restring-1-1101.md)
+
 [<mark style="background-color:green;">**Azura AI 3.0 Alpha:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.</mark>](azura/azura-ai-3.0-alpha.md)
 
-[<mark style="background-color:green;">**MateFluency Announcement:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.</mark>](developer-news/matefluency-ddk-and-dtk-announcement.md)
+[**MateFluency Announcement:** EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
 [**ANENDos Adoption - Discord + X:** Delve into how ANENDos is making waves on Discord and X, transforming online interactions with our latest technology.](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 
-[**Revamped RXIT TV Development:** Discover the major overhaul EcoWestern did to improve the RXIT TV app development processes.](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
-
 ## **Discover More**
 
+* [eNative3 Advanced Learners: Tools that enhance the capabilities of eNative applications. Explore in your projects and leverage advanced functionalities to create even more dynamic and feature-rich applications.](broken-reference)
 * [**Azura AI:** Explore the capabilities of Azura AI, our advanced artificial intelligence system driving innovation across our product range.](broken-reference)
-* [**eNative Coding Language:** Learn about the sophisticated eNative coding language, a powerhouse for developers seeking efficient and powerful solutions.](broken-reference)
+* [**eNative Programming Basics:** Learn about the sophisticated eNative coding language, a powerhouse for developers seeking efficient and powerful solutions.](broken-reference)
 * [**eNative (Legacy):** Dive into the legacy of eNative, understanding its evolution and the impact it has had on our technological landscape.](broken-reference)
 * [**Developer News:** Stay updated with the latest news and developments from our vibrant developer community, shaping the future of EcoWestern tech.](broken-reference)
 

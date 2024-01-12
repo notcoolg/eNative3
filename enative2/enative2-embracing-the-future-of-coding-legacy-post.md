@@ -5,7 +5,7 @@ coverY: 0
 
 # eNative2: Embracing the Future of Coding (Legacy Post)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 **Legacy Article:** This article was published in 2018, shortly after the initial release of eNative2. It explores the fundamental aspects of eNative2 as it stepped into the world of coding, bringing the promise of a new era in software development.
 {% endhint %}
 
@@ -60,7 +60,7 @@ readSensorData()
 
 ### 4. Embracing the Future
 
-* **The Promise of eNative3**: As we marvel at the capabilities of eNative2, it's important to keep an eye on the future. eNative3 is already on the horizon, and it aims to take the best elements of eNative2 to new heights.
+* **The Promise of eNative3**: As we look at the capabilities of eNative2, it's important to keep an eye on the future. eNative3 is already building to improve on what this brand new programming language can do, and it aims to take the best elements of eNative2 to new heights.
 
 ```eNative3
 newLanguage = eNative3
@@ -80,8 +80,8 @@ As we move ahead in this exciting journey, it's important to remember that the b
 
 eNative2 may be our present, but it's also a promise for the future.
 
-{% hint style="danger" %}
-**Future-Ready:** eNative3 is finally here, where the legacy of eNative2 continues to thrive in a more advanced and exciting form. Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. eNative2 will be gradually phased out and replaced by eNative3 by September 2024. Visit the eNative3 documentation for an exciting future in programming. Explore the future of programming. [Discover eNative3](../enative3-basics/exploring-enative3-an-innovative-coding-language.md)
+{% hint style="warning" %}
+**Future-Ready:** _eNative3 is finally here, where the legacy of eNative2 continues to thrive in a more advanced and exciting form._ Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. eNative2 will be gradually phased out and replaced by eNative3 by September 2024. Visit the eNative3 documentation for an exciting future in programming. Explore the future of programming. [Discover eNative3](../enative3-basics/exploring-enative3-an-innovative-coding-language.md)
 {% endhint %}
 
 ***

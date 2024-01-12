@@ -1,18 +1,18 @@
 # Table of contents
 
-* [Welcome to Our GitBook](README.md)
+* [👋 Welcome to Our GitBook](README.md)
 
 ## Developer News
 
-* [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
-* [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
-* [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
-* [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
-* [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
-* [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
-* [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
-* [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 * [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
+* [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
+* [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
+* [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
+* [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
+* [Embracing the Future: DashEco 7.9 and RXITOS 4.5 on eNative3](developer-news/embracing-the-future-dasheco-7.9-and-rxitos-4.5-on-enative3.md)
+* [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
+* [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
+* [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
 
 ## 📳 enative3
 
