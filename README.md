@@ -1,6 +1,20 @@
 ---
 description: 'Refreshed: 1.11.23'
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: false
 ---
 
 # 👋 Welcome to Our GitBook
@@ -11,7 +25,7 @@ Discover a wealth of information about our products, services, and cutting-edge 
 
 ## **Explore the Latest**
 
-[<mark style="background-color:purple;">Special Endpoints: The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.</mark>](enative3/new-special-endpoints-in-restring-1-1101.md)
+[<mark style="background-color:purple;">**Special Endpoints:**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.</mark>](enative3/new-special-endpoints-in-restring-1-1101.md)
 
 [<mark style="background-color:green;">**Azura AI 3.0 Alpha:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.</mark>](azura/azura-ai-3.0-alpha.md)
 
