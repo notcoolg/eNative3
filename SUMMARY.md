@@ -13,6 +13,7 @@
 * [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
 * [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
 * [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
+* [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 
 ## 📳 enative3
 
