@@ -1,5 +1,5 @@
 ---
-description: 'Refreshed: 12.2.23'
+description: 'Refreshed: 1.31.24'
 coverY: 0
 layout:
   cover:
@@ -25,15 +25,13 @@ Discover a wealth of information about our products, services, and cutting-edge 
 
 ## **Explore the Latest**
 
-eNative3 RS1#1101[<mark style="background-color:green;">**:**</mark> ](azura/azura-ai-3.0-alpha.md)<mark style="background-color:green;">**T**</mark>he latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.
+[<mark style="background-color:green;">EcoWestern Developers Club (EDC) Applications Are Open!: We are thrilled to announce that applications for the EcoWestern Developers Club (EDC) are now open again.</mark>](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 
 [<mark style="background-color:purple;">**Special Endpoints:**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.</mark>](enative3/new-special-endpoints-in-restring-1-1101.md)
 
-[<mark style="background-color:green;">**Azura AI 3.0 Alpha:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.</mark>](azura/azura-ai-3.0-alpha.md)
+**Azura AI 3.0 Alpha:** This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.
 
 [**MateFluency Announcement:** EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.](developer-news/matefluency-ddk-and-dtk-announcement.md)
-
-[**ANENDos Adoption - Discord + X:** Delve into how ANENDos is making waves on Discord and X, transforming online interactions with our latest technology.](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 
 ## **Discover More**
 
@@ -45,4 +43,4 @@ eNative3 RS1#1101[<mark style="background-color:green;">**:**</mark> ](azura/azu
 
 ## **About Us**
 
-EcoWestern isn't just a tech company; it's a pioneer in weaving sustainability into every aspect of innovation. Our commitment goes beyond delivering products; we're architects of a greener future. With a thriving community, cutting-edge features, and an unwavering focus on sustainability, EcoWestern stands as a beacon—shaping the tech landscape responsibly and pushing the boundaries of what's possible in the world of technology. Join us on this journey as we redefine the future with purpose and innovation.
+**EcoWestern isn't just a tech company; it's a pioneer in weaving sustainability into every aspect of innovation. Our commitment goes beyond delivering products; we're architects of a greener future.** With a thriving community, cutting-edge features, and an unwavering focus on sustainability, EcoWestern stands as a beacon—shaping the tech landscape responsibly and pushing the boundaries of what's possible in the world of technology. Join us on this journey as we redefine the future with purpose and innovation.

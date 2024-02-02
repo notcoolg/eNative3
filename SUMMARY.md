@@ -4,6 +4,7 @@
 
 ## Developer News
 
+* [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 * [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
 * [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 * [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
@@ -13,7 +14,6 @@
 * [The RXIT TV TDK: Bridging the Future of Television](developer-news/the-rxit-tv-tdk-bridging-the-future-of-television.md)
 * [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
 * [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
-* [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 
 ## 📳 enative3
 
