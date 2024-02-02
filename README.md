@@ -25,13 +25,13 @@ layout:
 
 ## **Explore the Latest**
 
+[<mark style="background-color:purple;">**Unveiling New Kernel Origins: W**</mark><mark style="background-color:purple;">e are excited to introduce a groundbreaking advancement in the eNative3 ecosystem: new kernel origins in eNative3 RS1#1110.</mark>](enative3/unveiling-new-kernel-origins-in-enative3-rs1-1110.md)
+
 [<mark style="background-color:green;">**EcoWestern Developers Club (EDC) Applications Are Open!:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">We are thrilled to announce that applications for the EcoWestern Developers Club (EDC) are now open again.</mark>](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 
-[<mark style="background-color:purple;">**Special Endpoints:**</mark> <mark style="background-color:purple;"></mark><mark style="background-color:purple;">The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.</mark>](enative3/new-special-endpoints-in-restring-1-1101.md)
+[**Special Endpoints:** The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.](enative3/new-special-endpoints-in-restring-1-1101.md)
 
 [**Azura AI 3.0 Alpha:** This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.](azura/azura-ai-3.0-alpha.md)
-
-[**MateFluency Announcement:** EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
 ## **Discover More**
 
