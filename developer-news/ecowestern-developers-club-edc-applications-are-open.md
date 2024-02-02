@@ -1,5 +1,6 @@
 ---
 description: 1.31.24
+coverY: 0
 ---
 
 # EcoWestern Developers Club (EDC) Applications Are Open!

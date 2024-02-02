@@ -17,6 +17,8 @@
 
 ## 📳 enative3
 
+* [Exploring New Functionalities in eNative3 RS1#1110](enative3/exploring-new-functionalities-in-enative3-rs1-1110.md)
+* [Unveiling New Kernel Origins in eNative3 RS1#1110](enative3/unveiling-new-kernel-origins-in-enative3-rs1-1110.md)
 * [New Special Endpoints in ReString 1#1101](enative3/new-special-endpoints-in-restring-1-1101.md)
 
 ## ✅ eNative3 Basics
