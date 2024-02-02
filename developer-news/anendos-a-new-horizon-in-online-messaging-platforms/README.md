@@ -1,6 +1,6 @@
 ---
 description: 11.27.23
-cover: ../.gitbook/assets/discord-new-logo.png
+cover: ../../.gitbook/assets/discord-new-logo.png
 coverY: 0
 ---
 

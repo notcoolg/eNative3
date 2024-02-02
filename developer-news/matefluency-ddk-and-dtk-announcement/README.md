@@ -1,6 +1,6 @@
 ---
 description: 12.1.23
-cover: ../.gitbook/assets/image_2023-12-02_012110372.png
+cover: ../../.gitbook/assets/image_2023-12-02_012110372.png
 coverY: -61.60000000000001
 layout:
   cover:

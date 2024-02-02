@@ -96,7 +96,7 @@ eNative2, we salute you for your reliability, simplicity, and remarkable journey
 <mark style="color:blue;">**Farewell, eNative2.**</mark>
 
 {% hint style="danger" %}
-**Transition Notice:** Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. Visit the eNative3 documentation for an exciting future in programming. [Discover eNative3](../enative3-basics/exploring-enative3-an-innovative-coding-language.md)
+**Transition Notice:** Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. Visit the eNative3 documentation for an exciting future in programming. [Discover eNative3](../developer-news/matefluency-ddk-and-dtk-announcement/exploring-enative3-an-innovative-coding-language.md)
 {% endhint %}
 
 ***
