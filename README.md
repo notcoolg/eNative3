@@ -31,9 +31,9 @@ eNative3 RS1#1101[<mark style="background-color:green;">**:**</mark> ](azura/azu
 
 [<mark style="background-color:green;">**Azura AI 3.0 Alpha:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.</mark>](azura/azura-ai-3.0-alpha.md)
 
-[**MateFluency Announcement:** EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.](developer-news/matefluency-ddk-and-dtk-announcement/)
+[**MateFluency Announcement:** EcoWestern has introduced a revamped design language, MateFluency, signaling a new era in the company's aesthetic evolution.](developer-news/matefluency-ddk-and-dtk-announcement.md)
 
-[**ANENDos Adoption - Discord + X:** Delve into how ANENDos is making waves on Discord and X, transforming online interactions with our latest technology.](developer-news/anendos-a-new-horizon-in-online-messaging-platforms/)
+[**ANENDos Adoption - Discord + X:** Delve into how ANENDos is making waves on Discord and X, transforming online interactions with our latest technology.](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 
 ## **Discover More**
 

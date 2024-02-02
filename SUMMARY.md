@@ -4,10 +4,8 @@
 
 ## Developer News
 
-* [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement/README.md)
-  * [Exploring eNative3: An Innovative Coding Language](developer-news/matefluency-ddk-and-dtk-announcement/exploring-enative3-an-innovative-coding-language.md)
-* [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms/README.md)
-  * [Mastering eNative3: Unlocking the Full Potential](developer-news/anendos-a-new-horizon-in-online-messaging-platforms/mastering-enative3-unlocking-the-full-potential.md)
+* [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
+* [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
 * [Revamped RXIT TV Development: Streamlined App Integration](developer-news/revamped-rxit-tv-development-streamlined-app-integration.md)
 * [EADS Integration and Transition from eNative2 to eNative3 in VAD v2](developer-news/eads-integration-and-transition-from-enative2-to-enative3-in-vad-v2.md)
 * [EMaps Features: AR Navigation and Nearby Discovery](developer-news/emaps-features-ar-navigation-and-nearby-discovery.md)
@@ -23,9 +21,11 @@
 
 ## ✅ eNative3 Basics
 
+* [Exploring eNative3: An Innovative Coding Language](enative3-basics/exploring-enative3-an-innovative-coding-language.md)
 * [The eNative3 Starter Pack: Your Guide to Getting Started](enative3-basics/the-enative3-starter-pack-your-guide-to-getting-started.md)
 * [Mastering eNative3: An Intermediate Guide](enative3-basics/mastering-enative3-an-intermediate-guide.md)
 * [Unveiling Advanced Features of eNative3](enative3-basics/unveiling-advanced-features-of-enative3.md)
+* [Mastering eNative3: Unlocking the Full Potential](enative3-basics/mastering-enative3-unlocking-the-full-potential.md)
 
 ## ☑ eNative2
 

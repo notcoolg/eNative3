@@ -81,7 +81,7 @@ As we move ahead in this exciting journey, it's important to remember that the b
 eNative2 may be our present, but it's also a promise for the future.
 
 {% hint style="warning" %}
-**Future-Ready:** _eNative3 is finally here, where the legacy of eNative2 continues to thrive in a more advanced and exciting form._ Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. eNative2 will be gradually phased out and replaced by eNative3 by September 2024. Visit the eNative3 documentation for an exciting future in programming. Explore the future of programming. [Discover eNative3](../developer-news/matefluency-ddk-and-dtk-announcement/exploring-enative3-an-innovative-coding-language.md)
+**Future-Ready:** _eNative3 is finally here, where the legacy of eNative2 continues to thrive in a more advanced and exciting form._ Developers are encouraged to explore eNative3 for advanced capabilities and ongoing support. eNative2 will be gradually phased out and replaced by eNative3 by September 2024. Visit the eNative3 documentation for an exciting future in programming. Explore the future of programming. [Discover eNative3](../enative3-basics/exploring-enative3-an-innovative-coding-language.md)
 {% endhint %}
 
 ***
