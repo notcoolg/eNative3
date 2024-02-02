@@ -26,7 +26,7 @@ Applying to join the EcoWestern Developers Club is easy. Simply visit our websit
 
 Joining the EcoWestern Developers Club opens the door to endless possibilities for innovation and collaboration. Whether you're a seasoned developer or just starting your coding journey, the EDC provides the resources, support, and opportunities you need to thrive in today's rapidly evolving tech landscape. Don't miss out on this opportunity to be part of a vibrant community of developers driving change and shaping the future of technology. Apply to join the EDC today and unleash your creativity!
 
-Click here to apply: [goedc.us.to](https://freedns.afraid.org/subdomain/edit.php?data\_id=22392093\&action=redirect)
+[Click here to apply](https://ewdc.fillout.com/questionaireapp)
 
 ### **Stay Connected**&#x20;
 
