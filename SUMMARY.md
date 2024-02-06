@@ -4,6 +4,7 @@
 
 ## Developer News
 
+* [Unlocking MateOS X5](developer-news/unlocking-mateos-x5.md)
 * [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 * [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
 * [ANENDos: A New Horizon in Online Messaging Platforms](developer-news/anendos-a-new-horizon-in-online-messaging-platforms.md)
