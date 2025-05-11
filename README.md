@@ -1,5 +1,5 @@
 ---
-description: 'Refreshed: 1.31.24'
+description: 'Refreshed: 5.10.25'
 coverY: 0
 layout:
   cover:
@@ -10,51 +10,81 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: true
+    visible: false
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
-# 👋 Welcome to Our GitBook
+# 👋 Welcome to Our Learn Portal
 
-## **Welcome to the EcoWestern Learn Portal**
+## **Welcome to the EcoWestern Developer Learn Portal!** 🌍💻
 
-**Discover a wealth of information about our products, services, and cutting-edge technologies right here on our official GitBook**. Whether you're a developer, a tech enthusiast, or simply curious about our endeavors, you'll find valuable insights that unravel the complexities of our offerings.
+Unlock the full potential of EcoWestern technologies and build the next generation of smart applications with our comprehensive resources, tutorials, and tools. We’ve got everything you need to take your projects to the next level.
 
-## **Explore the Latest**
+***
 
-[<mark style="background-color:purple;">**Unveiling New Kernel Origins: W**</mark><mark style="background-color:purple;">e are excited to introduce a groundbreaking advancement in the eNative3 ecosystem: new kernel origins in eNative3 RS1#1110.</mark>](enative3/unveiling-new-kernel-origins-in-enative3-rs1-1110.md)
+## **What's New?**
 
-[<mark style="background-color:green;">**EcoWestern Developers Club (EDC) Applications Are Open!:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;">We are thrilled to announce that applications for the EcoWestern Developers Club (EDC) are now open again.</mark>](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
+🚨 **Hot Off the Press**: **Azura AI 4+ Integration with eNative3**! 🚨
 
-[**Special Endpoints:** The latest enhancements in eNative3, specifically focusing on the new special endpoints introduced in ReString version 1#1101.](enative3/new-special-endpoints-in-restring-1-1101.md)
+Our brand new **Developer News Article** just dropped, and you _don’t_ want to miss it. 🚀
 
-[**Azura AI 3.0 Alpha:** This article delves into the revolutionary strides made by the Azura AI API, reshaping the landscape of EcoWestern's AI ecosystem.](azura/azura-ai-3.0-alpha.md)
+💡 **Azura AI 4+** is the cutting-edge AI solution you've been waiting for. Seamlessly integrate it with your eNative3 apps to take your projects to the next level. In this article, we dive deep into how you can leverage **text variants**, **multimodal support**, and **advanced conversational features** to create powerful, context-aware AI interactions.
 
-## **Discover More**
+🛠️ **What’s Inside the Article?**
 
-### [eNative3 Advanced Learners](broken-reference)
+* **Dynamic Text Variants**: Learn how to tailor Azura’s responses for a more personalized experience.
+* **Multimodal Input**: From voice to text, get your AI ready for mixed interactions.
+* **Contextual Memory**: Keep conversations flowing with persistent context, making your AI more intuitive than ever.
+* **API Setup**: We’ve got you covered with step-by-step guidance to integrate Azura into your projects effortlessly.
 
-[ Tools that enhance the capabilities of eNative applications. Explore in your projects and leverage advanced functionalities to create even more dynamic and feature-rich applications.](broken-reference)
+✨ **Bonus**: We also talk about the best practices for optimizing Azura’s performance in real-world applications. This is a must-read for developers looking to integrate smart, conversational AI into their apps.
 
-### [**Azura AI**](broken-reference)
+🔗 **Read the Full Article Now!** [**Start Your Integration Here!**](developer-news/azura-ai-4+-with-enative3-integration.md)
 
-[Explore the capabilities of Azura AI, our advanced artificial intelligence system driving innovation across our product range.](broken-reference)
+***
 
-### [**eNative Programming Basics**](broken-reference)
+## **Learn and Build with EADS** 🎓🚀
 
-[Learn about the sophisticated eNative coding language, a powerhouse for developers seeking efficient and powerful solutions.](broken-reference)
+The **EcoWestern Active Development Software (EADS)** is your one-stop hub for building robust applications using **eNative3**, **Azura AI**, and more.
 
-### [**eNative (Legacy)**](broken-reference)
+Why develop with EADS?
 
-[Dive into the legacy of eNative, understanding its evolution and the impact it has had on our technological landscape.](broken-reference)
+* **Fast & Seamless Integration**: Easily link your eNative3 projects with the latest updates and add-ons.
+* **Built for Developers, by Developers**: Packed with intuitive features that make coding, testing, and deploying easier than ever.
+* **Updated Regularly**: Always stay ahead with new tools, frameworks, and features—directly from EcoWestern.
 
-### [**Developer News**](broken-reference)
+Not using EADS yet? Get started today and explore all the ways it can supercharge your development process.
 
-[Stay updated with the latest news and developments from our vibrant developer community, shaping the future of EcoWestern tech.](broken-reference)
+🔗 **Download EADS Now** and start building with ease! [**Download EADS**](./#welcome-to-the-ecowestern-developer-learn-portal)
 
-## **About Us**
+***
 
-**EcoWestern isn't just a tech company; it's a pioneer in weaving sustainability into every aspect of innovation. Our commitment goes beyond delivering products; we're architects of a greener future.** With a thriving community, cutting-edge features, and an unwavering focus on sustainability, EcoWestern stands as a beacon—shaping the tech landscape responsibly and pushing the boundaries of what's possible in the world of technology. Join us on this journey as we redefine the future with purpose and innovation.
+## **What's In Store for You?**
+
+* **Articles**: Keep your skills sharp with our up-to-date resources and step-by-step guides.
+* **Tutorials**: Learn from real-world examples and hands-on experiences. Whether you're integrating new tech or optimizing an old app, we've got the guide for you.
+* **Code Snippets**: Cut down development time by using ready-made code blocks that you can drop right into your projects.
+
+***
+
+## **Join the Community** 🌐👥
+
+Stay connected with other developers in the **EcoWestern Developer Community**. Share your experiences, get tips, and collaborate on projects. Whether you're troubleshooting an issue or brainstorming the next big thing, the community has your back.
+
+🔗 **Join the Discussion** on the [**EcoWestern Developer Forum**](./#welcome-to-the-ecowestern-developer-learn-portal)
+
+***
+
+## **Ready to Take the Next Step?**
+
+The world of eNative3 and Azura AI is waiting for you to create something amazing. So, what are you waiting for? Dive into the world of EcoWestern development today!
+
+📘 **Explore More Articles**\
+🔧 **Download Developer Tools**\
+💬 **Start a Project**
+
+Let’s innovate, together! ✨
+

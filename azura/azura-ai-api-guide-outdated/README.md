@@ -1,5 +1,6 @@
 ---
 description: March 23rd, 2023
+hidden: true
 ---
 
 # Azura AI API Guide (outdated)
@@ -7,7 +8,7 @@ description: March 23rd, 2023
 
 
 {% hint style="danger" %}
-OUT OF DATE **PLEASE REFER TO** [**AZAI API 2024.**](azura-ai-api-integration-guide.md)
+OUT OF DATE **PLEASE REFER TO** [**AZAI API 2024.**](../azura-ai-api-integration-guide.md)
 {% endhint %}
 
 ## **Introduction**
