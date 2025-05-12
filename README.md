@@ -42,7 +42,7 @@ Our brand new **Developer News Article** just dropped, and you _don’t_ want to
 
 ✨ **Bonus**: We also talk about the best practices for optimizing Azura’s performance in real-world applications. This is a must-read for developers looking to integrate smart, conversational AI into their apps.
 
-🔗 **Read the Full Article Now!** [**Start Your Integration Here!**](developer-news/azura-ai-4+-with-enative3-integration.md)
+🔗 **Read the Full Article Now!** [**Start Your Integration Here!**](developer-news/voice-vision-and-variants-azura-ai-4+-comes-to-enative3.md)
 
 ***
 

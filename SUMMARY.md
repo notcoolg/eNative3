@@ -4,7 +4,7 @@
 
 ## Developer News
 
-* [Azura AI 4+ with eNative3 Integration](developer-news/azura-ai-4+-with-enative3-integration.md)
+* [Voice, Vision, and Variants: Azura AI 4+ Comes to eNative3](developer-news/voice-vision-and-variants-azura-ai-4+-comes-to-enative3.md)
 * [Unlocking MateOS X5](developer-news/unlocking-mateos-x5.md)
 * [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
 * [MateFluency DDK and DTK Announcement](developer-news/matefluency-ddk-and-dtk-announcement.md)
