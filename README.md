@@ -2,19 +2,22 @@
 description: 'Refreshed: 5.10.25'
 coverY: 0
 layout:
+  width: default
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
-    visible: false
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 👋 Welcome to Our Learn Portal
