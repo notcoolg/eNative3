@@ -1,20 +1,6 @@
 ---
 description: October 11th, 2023
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Exploring DashEco 7.9: What Developers Need to Know

@@ -30,22 +30,23 @@ Unlock the full potential of EcoWestern technologies and build the next generati
 
 ## **What's New?**
 
-🚨 **Hot Off the Press**: **Azura AI 4+ Integration with eNative3**! 🚨
+🚨 **Azura AI 5 is Here!** 🚨
 
 Our brand new **Developer News Article** just dropped, and you _don’t_ want to miss it. 🚀
 
-💡 **Azura AI 4+** is the cutting-edge AI solution you've been waiting for. Seamlessly integrate it with your eNative3 apps to take your projects to the next level. In this article, we dive deep into how you can leverage **text variants**, **multimodal support**, and **advanced conversational features** to create powerful, context-aware AI interactions.
+💡 EcoWestern officially launched **Azura AI 5**, marking our return to the AI space after a deliberate pause to rethink what an assistant _should_ be. This isn’t an AI that tries to do everything for you. This is an AI that knows **when to help, when to think, and when to step aside**.
 
-🛠️ **What’s Inside the Article?**
+<a href="developer-news/azura-ai-5-is-here.md" class="button primary">Read all about it</a>
 
-* **Dynamic Text Variants**: Learn how to tailor Azura’s responses for a more personalized experience.
-* **Multimodal Input**: From voice to text, get your AI ready for mixed interactions.
-* **Contextual Memory**: Keep conversations flowing with persistent context, making your AI more intuitive than ever.
-* **API Setup**: We’ve got you covered with step-by-step guidance to integrate Azura into your projects effortlessly.
+***
 
-✨ **Bonus**: We also talk about the best practices for optimizing Azura’s performance in real-world applications. This is a must-read for developers looking to integrate smart, conversational AI into their apps.
+🚨 **eNative3 RS#8910** 🚨
 
-🔗 **Read the Full Article Now!** [**Start Your Integration Here!**](developer-news/voice-vision-and-variants-azura-ai-4+-comes-to-enative3.md)
+The new **ReString build of eNative3** is out now, learn more now.
+
+💡 **RS19#8910** is not a feature-heavy ReString in the traditional sense, and that’s intentional. This build exists for one reason: to **lay the foundation for Azura AI 5 and future AI-driven applications inside eNative3**.
+
+<a href="enative3/whats-new-in-enative3-rs19-8910.md" class="button primary">Learn more </a>
 
 ***
 

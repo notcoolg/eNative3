@@ -26,7 +26,7 @@ Additionally, we're thrilled to share the upcoming transition from eNative2 to e
 The key features and advantages of eNative3 include improved coding syntax, expanded libraries, better user interface components, and increased functionality. This transition will enable developers to create apps more efficiently, using a more intuitive and user-friendly language while also benefiting from the new and enhanced functionalities offered by eNative3.
 
 {% hint style="info" %}
-Read more about eNative3 and its immense perks in the [eNative3](broken-reference) category in this portal.
+Read more about eNative3 and its immense perks in the [eNative3](/broken/pages/aNLnnb4Cs33yBgJiRn7Z) category in this portal.
 {% endhint %}
 
 ## Final Remarks

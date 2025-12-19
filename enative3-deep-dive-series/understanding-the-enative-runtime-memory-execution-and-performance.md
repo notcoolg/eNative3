@@ -140,5 +140,5 @@ Use `EventView` to trace events and see which tasks cause latency or unnecessary
 The runtime is what gives eNative3 its power — but also its quirks. Understanding how it manages memory, executes tasks, and interfaces with hardware is essential to writing clean, stable, and futureproof software.
 
 > **Next in the Deep Dive Series:**\
-> → [event-driven-development-in-enative3.md](../event-driven-development-in-enative3.md "mention") — We’ll break down system events, user triggers, and custom event pipelines in modular apps.
+> → [event-driven-development-in-enative3.md](event-driven-development-in-enative3.md "mention") — We’ll break down system events, user triggers, and custom event pipelines in modular apps.
 

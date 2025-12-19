@@ -2,20 +2,6 @@
 description: 12.2.23
 cover: ../.gitbook/assets/image_2023-12-02_014235241.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # AZURA AI 3.0 ALPHA

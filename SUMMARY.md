@@ -4,6 +4,7 @@
 
 ## Developer News
 
+* [🌐 Azura AI 5 Is Here](developer-news/azura-ai-5-is-here.md)
 * [Voice, Vision, and Variants: Azura AI 4+ Comes to eNative3](developer-news/voice-vision-and-variants-azura-ai-4+-comes-to-enative3.md)
 * [Unlocking MateOS X5](developer-news/unlocking-mateos-x5.md)
 * [EcoWestern Developers Club (EDC) Applications Are Open!](developer-news/ecowestern-developers-club-edc-applications-are-open.md)
@@ -17,8 +18,13 @@
 * [The Rebirth of EcoAir](developer-news/the-rebirth-of-ecoair.md)
 * [Exploring DashEco 7.9: What Developers Need to Know](developer-news/exploring-dasheco-7.9-what-developers-need-to-know.md)
 
+## AZURA AI 5
+
+* [Using Azura AI 5 with eNative3 via Economic Cloud Services (ECS)](azura-ai-5/using-azura-ai-5-with-enative3-via-economic-cloud-services-ecs.md)
+
 ## 📳 enative3
 
+* [🤖 What’s New in eNative3 RS19#8910](enative3/whats-new-in-enative3-rs19-8910.md)
 * [📘 Functionality Overview – eNative3 RS14#3300](enative3/functionality-overview-enative3-rs14-3300.md)
 * [Exploring New Functionalities in eNative3 RS1#1110](enative3/exploring-new-functionalities-in-enative3-rs1-1110.md)
 * [Unveiling New Kernel Origins in eNative3 RS1#1110](enative3/unveiling-new-kernel-origins-in-enative3-rs1-1110.md)
@@ -32,10 +38,7 @@
 ## 🌊 eNative3 Deep Dive Series
 
 * [🔍 Understanding the eNative Runtime: Memory, Execution, and Performance](enative3-deep-dive-series/understanding-the-enative-runtime-memory-execution-and-performance.md)
-
-***
-
-* [🌟 Event-Driven Development in eNative3](event-driven-development-in-enative3.md)
+* [🌟 Event-Driven Development in eNative3](enative3-deep-dive-series/event-driven-development-in-enative3.md)
 
 ## ✅ eNative3 Basics
 
@@ -54,12 +57,9 @@
 
 * [Installing, Testing, Upgrading, Downgrading, and Integrating Azura AI 4+](azura-ai-4+/installing-testing-upgrading-downgrading-and-integrating-azura-ai-4+.md)
 * [Building with Azura AI 4+: A Developer’s Guide to Text Variants, APIs, and Customization](azura-ai-4+/building-with-azura-ai-4+-a-developers-guide-to-text-variants-apis-and-customization.md)
-
-***
-
-* [The Text Variants of Azura AI 4+](the-text-variants-of-azura-ai-4+.md)
-* [Unlocking Azura AI 4+](unlocking-azura-ai-4+.md)
-* [Introducing Azura AI 4+](introducing-azura-ai-4+.md)
+* [The Text Variants of Azura AI 4+](azura-ai-4+/the-text-variants-of-azura-ai-4+.md)
+* [Unlocking Azura AI 4+](azura-ai-4+/unlocking-azura-ai-4+.md)
+* [Introducing Azura AI 4+](azura-ai-4+/introducing-azura-ai-4+.md)
 
 ## azura
 
